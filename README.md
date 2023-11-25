@@ -1,4 +1,4 @@
-# Hello, I'm [Pratima] 👋
+# Hello, I'm Pratima 👋
 
 I'm a passionate DevOps and SQL developer with a strong background in Devops Technology . My goal is to contribute to the world of technology by solving complex problems and building efficient and scalable solutions.
 
