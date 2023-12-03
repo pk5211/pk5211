@@ -3,7 +3,7 @@
 I'm a passionate DevOps and SQL developer with a strong background in Devops Technology . My goal is to contribute to the world of technology by solving complex problems and building efficient and scalable solutions.
 
 ## 🔧 Technologies & Tools
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
